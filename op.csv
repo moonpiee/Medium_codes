@@ -1,0 +1,28 @@
+top_k	top_p*100	temperature	Output
+10	20.0	0.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+10	20.0	1.0	The moon, a silent witness to countless whispered secrets, finally cracked a smile, revealing a crater filled with stardust tears.
+10	20.0	2.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+10	60.0	0.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own unchanging gaze.
+10	60.0	1.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware that the dust they disturbed was the very same dust that had once been stars.
+10	60.0	2.0	The moon, a silent observer, wept silver tears of longing for the sun, a love forever unattainable across the cosmic void.
+10	100.0	0.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+10	100.0	1.0	The moon, a silent observer, wept silver tears of starlight onto the sleeping Earth, each drop a forgotten memory.
+10	100.0	2.0	The moon, a silver tear fallen from a god's eye, reflected untold stories in the ocean it cradled.
+50	20.0	0.0	The moon, a silent witness to countless whispered secrets, finally cracked a smile, revealing a crater filled not with dust, but with starlight.
+50	20.0	1.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own unchanging gaze.
+50	20.0	2.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+50	60.0	0.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+50	60.0	1.0	The moon, a silent witness to countless loves and losses, finally cracked a smile, revealing a crater shaped like a heart.
+50	60.0	2.0	The moon, a silent observer, wept silver tears of starlight onto the sleeping Earth, each drop a forgotten memory.
+50	100.0	0.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+50	100.0	1.0	The moon, a silent observer, wept silver tears onto the sleeping Earth, each drop a forgotten memory of a sun-scorched love affair.
+50	100.0	2.0	A single step on the grey dust transformed Neil’s reflection into a billion twinkling stars across the endless silent void.
+80	20.0	0.0	The moon, a silent witness to countless whispered secrets, finally cracked a smile, revealing a crater filled not with dust, but with the tears of forgotten lovers.
+80	20.0	1.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own unchanging gaze.
+80	20.0	2.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+80	60.0	0.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own slow, inexorable decay.
+80	60.0	1.0	The moon, a silent witness to countless whispered secrets, finally cracked a smile, revealing a crater filled with stardust tears.
+80	60.0	2.0	The moon, a silent observer, watched the lovers' whispered secrets fade into the cosmic dust, their ephemeral love a fleeting constellation against its timeless, cratered face.
+80	100.0	0.0	The moon, a silent witness, watched lovers carve their initials into its cratered face, unaware their fleeting passion mirrored the eons of its own unchanging gaze.
+80	100.0	1.0	The moon, a silent observer, watched as lovers carved their initials into its cratered face, knowing their fleeting passion would fade like the morning mist, leaving only the enduring scars upon its timeless surface.
+80	100.0	2.0	The moon, a silent witness to untold billions of whispered desires and secret grievings, finally cracked, showering the Earth in a cold, glittering rain of forgotten dreams.
